@@ -90,7 +90,5 @@ Ce projet démontre une démarche d'analyse SQL allant de requêtes d'agrégatio
 
 Cette requête calcule le chiffre d’affaires et le profit total par catégorie de produits, puis classe les catégories par chiffre d’affaires décroissant.
 
-![Analyse SQL du chiffre d’affaires et du profit par catégorie](SQL.png) 
-
 <img width="593" height="290" alt="Capture d&#39;écran 2026-09-26 011541" src="https://github.com/user-attachments/assets/e98b414b-8971-4e87-a05b-1ffec37becab" />
 
