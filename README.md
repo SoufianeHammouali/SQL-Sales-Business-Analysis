@@ -85,3 +85,12 @@ La relation entre les deux tables est basée sur `customer_id`.
 ## Conclusion
 
 Ce projet démontre une démarche d'analyse SQL allant de requêtes d'agrégation simples à des analyses plus avancées utilisant les jointures, les CTE, les sous-requêtes et les fonctions de fenêtre.
+
+## Exemple d’analyse SQL
+
+Cette requête calcule le chiffre d’affaires et le profit total par catégorie de produits, puis classe les catégories par chiffre d’affaires décroissant.
+
+![Analyse SQL du chiffre d’affaires et du profit par catégorie](SQL.png) 
+
+<img width="593" height="290" alt="Capture d&#39;écran 2026-09-26 011541" src="https://github.com/user-attachments/assets/e98b414b-8971-4e87-a05b-1ffec37becab" />
+
